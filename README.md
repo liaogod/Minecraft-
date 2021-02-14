@@ -75,4 +75,3 @@ Protect your server from over FIFTY glitches and dupes that have made it into fi
 - Overstacked Items
 
 - Illegally Enchanted Items.
-
