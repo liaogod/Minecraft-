@@ -8,7 +8,7 @@ that support all 1.7.X~1.16.5 versions of Minecraft.
 
 Updated March. 2021 
 
-Version 1.0.1
+Version 2.1.0
 
 Anti Bot:
 
