@@ -6,7 +6,7 @@ advanced Minecraft Anti-Cheat plugin
 
 that support all 1.7.X~1.16.5 versions of Minecraft.
 
-Updated February. 2021 
+Updated March. 2021 
 
 Version 1.0.1
 
